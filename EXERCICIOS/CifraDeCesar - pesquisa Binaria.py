@@ -8,7 +8,7 @@ TEMPO DE EXECUÇÃO LOGARÍTMICO O(Log n)
 alfabeto = list(string.ascii_lowercase)
 
 ## SENTENÇA PARA CRIPTOGRAFAR
-sentença = 'A marlene e muito mandrioninha'
+sentença = 'Estou implementando a Cifra de Cesar'
 
 ## SUBSTRING A SER CRIADA
 sentençaCriptografada = ''

@@ -9,7 +9,7 @@ TEMPO DE EXECUÇÃO LINEAR O(n)
 alfabeto = list(string.ascii_lowercase)
 
 ## SENTENÇA PARA CRIPTOGRAFAR
-sentença = 'a marlene e muito mandrioninha'
+sentença = 'Estou implementando a Cifra de Cesar'
 
 ## SUBSTRING A SER CRIADA
 sentençaCriptografada = ''
